@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Prompt - javascript</title>
+
+		<script>
+			
+			/*
+            prompt("Digite seu nome");
+            */
+
+            var nome=prompt("Digite seu nome","Seu nome aqui");
+/*
+            document.write(nome);
+*/        
+
+            alert(nome);
+
+            
+		</script>
+	</head>
+	<body>
+		
+	</body>
+</html>

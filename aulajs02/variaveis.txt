@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Javascript 2</title>
+        <meta charset="UTF-8">
+
+        <script>
+        	
+        	var canal="CFB Cursos";
+        	var ano=2017;
+        	var num=10;
+
+        	var texto=canal+"<br>"+(ano+num);
+
+        	document.write(texto);
+/*
+        	document.write(canal + "<br>" + num + "<br>" + curso);
+
+           /*variaveis nao podem comecar com numeros e &*/ 
+
+        </script>
+
+
+	</head>
+	<body> 
+		
+	</body>
+</html>

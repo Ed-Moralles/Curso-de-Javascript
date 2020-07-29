@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Constantes Javascript</title>
+
+		<script>
+
+			const canal="CFB Cursos";
+
+			document.write(Math.PI);
+
+			/*constantes nao pode ter seu valor alterado
+			
+		</script>
+
+	</head>
+	<body>
+
+
+		
+	</body>
+</html>

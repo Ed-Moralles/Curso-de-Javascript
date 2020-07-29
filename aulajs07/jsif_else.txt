@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>If - else Javascript</title>
+
+		<script>
+/*
+			var v1,v2;
+
+			v1=10;
+			v2=5;
+
+			if(v1 > v2){//true
+				document.write("CFB Cursos");
+
+
+			} 
+*/  /*
+			var v1,v2;
+
+			v1=10;
+			v2=15;
+
+			if(v1 > v2){//true
+				document.write("CFB Cursos");
+
+
+			} 
+*/  /*
+			var v1,v2;
+
+			v1=10;
+			v2=15;
+
+			if(v1 == v2){//true
+				document.write("CFB Cursos");
+			}else{
+				document.write("Curso de Javascript");
+			}
+
+*/  /*
+
+			var v1,v2;
+
+			v1=10;
+			v2=10;
+
+			if(v1 == v2){//true
+				document.write("CFB Cursos");
+			}else{
+				document.write("Curso de Javascript");
+			}
+*/   /*
+			var v1,v2,tx1,tx2;
+
+			v1=10;
+			v2=10;
+
+			tx1="CFB Cursos";
+			tx2="Curso de Javascript";
+
+			if(v1 == v2){
+				document.write(tx1);
+				alert(tx1);
+			}else{
+				document.write(tx2);
+				alert(tx2);
+			}
+*/
+            var v1,v2,tx1,tx2;
+
+			v1=10;
+			v2=10;
+
+			tx1="CFB Cursos";
+			tx2="Curso de Javascript";
+
+			if(v1 != v2){
+				document.write(tx1);
+				alert(tx1);
+			}else{
+				document.write(tx2);
+				alert(tx2);
+			}
+
+						
+		</script>
+	</head>
+	<body>
+		
+	</body>
+</html>

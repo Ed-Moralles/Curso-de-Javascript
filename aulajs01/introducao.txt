@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Curso de Java Script</title>
+		<meta charset="UTF-8">
+		
+		<script>
+			document.write("CFB Cursos<br>Curso de javascript<br>100+50");			
+		</script>
+
+	</head>
+
+	<body>
+		
+	</body>
+</html>

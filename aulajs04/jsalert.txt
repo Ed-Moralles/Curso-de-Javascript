@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Alert Javascript</title>
+
+        <script>
+/* 
+        	alert("CFB Cursos - Curso de Javascript");
+*/
+/*
+        	var canal="CFB Cursos";
+        	var curso="Curso de Javascript";
+
+        	alert(canal+"-"+curso);
+        	*/
+/*
+        	const num=500;
+
+        	alert(num+300);  
+        	*/
+            /*
+            var canal="CFB Cursos";
+        	var curso="Curso de Javascript";
+            const separador=" - ";
+
+            alert(canal + separador + curso);
+*/
+            var canal="CFB Cursos";
+            var curso="Curso de Javascript";
+            const quebra="\n";
+
+            alert(canal + quebra + curso);
+
+
+        </script>
+
+	</head>
+	<body>
+		
+	</body>
+</html>

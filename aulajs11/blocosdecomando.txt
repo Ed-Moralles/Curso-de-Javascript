@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Blocos de Comando - Javascript</title>
+
+		<script>
+/*
+			var num=5;
+
+			if(num > 10) res="Maior que 10";
+			else res="Menor que 10";
+
+			document.write(res);
+	*/
+	/*
+	        var num=5;
+
+	        if(num >10){
+	            res="Maior que 10";
+	            document.write(res);
+	            alert(res);
+            }
+	        else{
+	            res="Menor que 10";
+	            document.write(res);
+	            alert(res);
+	         }      		
+	         */  
+
+	         var num=5;
+
+			if(num > 10) res="Maior que 10";
+			else res="Menor que 10";
+
+			document.write(res);
+			alert(res);    		
+
+		</script>
+	</head>
+	<body>
+		
+	</body>
+</html>
